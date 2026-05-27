@@ -8,8 +8,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-orange?style=for-the-badge)](https://github.com/yourusername/amr-analyser)
 
-![Banner](https://via.placeholder.com/1200x400/0A2540/FFFFFF?text=AMR+Analyser+-+From+Data+to+Action)  
-<!-- Replace with your actual banner/screenshot -->
 
 </div>
 
@@ -57,3 +55,4 @@ graph LR
     D --> E[EM Quantification]
     E --> F[TPM / RPKM / Counts]
     E --> G[Visualizations]
+
