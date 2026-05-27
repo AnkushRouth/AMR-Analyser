@@ -1,0 +1,6 @@
+##Instructions##
+
+(1)To obtain the output file , run the following command :
+	##python3 axion-amr.py amr_genes.fasta sample_reads.fastq output##
+
+(2)Tally the Accession number in "Output_summary" with the "AMR-index.csv" to get the information of the genes. 
